@@ -9,7 +9,7 @@ Projenin tanıtım videosuna aşağıdki linkten ulaşabilirsiniz.
 
 ### Architecture
 
-<img src="https://github.com/onurbass/HR-Project-Spring/blob/main/src/main/resources/images/cloud-architecture.jpg?raw=true" alt="Icon" >
+<img src="https://github.com/onurbass/HR-Project_Full-Stack/blob/main/HR-Project-Spring/src/main/resources/images/cloud-architecture.jpg?rav=true" alt="Icon" >
 
 ### Proje Hakkında
 
