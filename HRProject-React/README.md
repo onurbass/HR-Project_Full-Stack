@@ -9,8 +9,7 @@ You can access the promotional video of the project from this link.
 [YouTube Video](https://www.youtube.com/watch?v=tM-Fa5lB-zc&ab_channel=%C3%9CnalGaniBerk)
 ### Architecture
 
-<img src="https://github.com/onurbass/HR-Project-Spring/blob/main/src/main/resources/images/cloud-architecture.jpg?raw=true" alt="Icon" >
-
+<img src="https://github.com/onurbass/HR-Project_Full-Stack/blob/main/HR-Project-Spring/src/main/resources/images/cloud-architecture.jpg?rav=true" alt="Icon" >
 ### About This Project
 
 HR Project includes four distinct roles: admin, company manager, employee, and guest. Each role is equipped with its own dashboard, profile, and pages tailored to their specific responsibilities.
