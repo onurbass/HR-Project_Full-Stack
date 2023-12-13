@@ -9,8 +9,7 @@ Projenin tanıtım videosuna aşağıdki linkten ulaşabilirsiniz.
 [YouTube Video](https://www.youtube.com/watch?v=tM-Fa5lB-zc&ab_channel=%C3%9CnalGaniBerk)
 ### Architecture
 
-<img src="https://github.com/onurbass/HR-Project-Spring/blob/main/src/main/resources/images/cloud-architecture.jpg?raw=true" alt="Icon" >
-
+<img src="https://github.com/onurbass/HR-Project_Full-Stack/blob/main/HR-Project-Spring/src/main/resources/images/cloud-architecture.jpg?rav=true" alt="Icon" >
 ### Proje Hakkında
 
 HR Project, admin, şirket yöneticisi, çalışan ve misafir olmak üzere dört farklı role sahip bir insan kaynakları uygulamasıdır. Her bir rol, kendi görevlerine uygun olarak tasarlanmış bir kontrol paneli, profil ve sayfalara sahiptir.
